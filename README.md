@@ -1,2 +1,2 @@
 # EasyQuizy
-Simple quiz taking service, developed under DataArt Web Engineering school.
+Simple quiz taking service, developed by GOFN team (#5) under DataArt Web Engineering school.
