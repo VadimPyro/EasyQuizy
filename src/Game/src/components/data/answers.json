@@ -1,0 +1,50 @@
+[
+    {  "Answer" : "Bogdan Khmelnitskiy",
+       "as": 1,
+       "True": 0
+    },
+    {  "Answer" : "Leonid Kuchma",
+        "as": 1,
+        "True": 1
+     },
+     {  "Answer" : "Leonid Kravchuk",
+        "as": 1,
+        "True": 0
+     },
+     {  "Answer" : "Petro Poroshenko",
+        "as": 1,
+        "True": 0
+     },
+     {  "Answer" : "Bogdan Khmelnitskiy",
+        "as": 2,
+        "True": 0
+     },
+     {  "Answer" : "Pilip Orlik",
+        "as": 2,
+        "True": 0
+     },
+     {  "Answer" : "Leonid Kravchuk",
+        "as": 2,
+        "True": 1
+     },
+     {  "Answer" : "Leonid Kuchma",
+        "as": 2,
+        "True": 0
+     },
+     {  "Answer" :"Bogdan Khmelnitskiy",
+        "as": 3,
+        "True": 0
+     },
+     {  "Answer" : "Pilip Orlik",
+        "as": 3,
+        "True": 0
+     },
+     {  "Answer" : "Leonid Kravchuk",
+        "as": 3,
+        "True": 1
+     },
+     {  "Answer" : "Leonid Kuchma",
+        "as": 3,
+        "True": 0
+     }
+]    

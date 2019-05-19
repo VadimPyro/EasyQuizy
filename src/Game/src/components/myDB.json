@@ -1,0 +1,722 @@
+[{ "category" : "History",
+    "Test": {
+      "title" : "History of Ukraine",
+      "Questions": [
+         { 
+            "Question1" : "The first presedent of Ukraine was? ",
+            "Ansvers": {
+                 "Var1": {
+                     "Ansver": "Bogdan Khmelnitskiy",
+                     "True": 0
+                        },
+                  "Var2": {
+                     "Ansver": "Leonid Kuchma",
+                     "True": 0
+                        },    
+                  "Var3": {
+                        "Ansver":"Leonid Kravchuk",
+                        "True": 1
+                        },    
+                  "Var4":{
+                        "Ansver": "Petro Poroshenko",
+                        "True": 0
+                        } 
+                     }  
+                },
+                {
+            "Question" : "Who created the first constitution of Ukraine? ",
+            "Ansvers": {
+                  "Var1": {
+                           "Ansver": "Bogdan Khmelnitskiy",
+                           "True": 0
+                        },
+                  "Var2": {
+                           "Ansver": "Pilip Orlik",
+                           "True": 1
+                        },    
+                  "Var3": {
+                           "Ansver":"Leonid Kravchuk",
+                           "True": 0
+                        },    
+                  "Var4":{
+                           "Ansver": "Leonid Kuchma",
+                           "True": 0
+                        } 
+                    }
+                  
+               },
+               
+               {
+                  "Question" : "Who was second presedent of Ukraine ? ",
+                  "Ansvers": {
+                        "Var1": {
+                                 "Ansver": "Bogdan Khmelnitskiy",
+                                 "True": 0
+                              },
+                        "Var2": {
+                                 "Ansver": "Pilip Orlik",
+                                 "True": 0
+                              },    
+                        "Var3": {
+                                 "Ansver":"Leonid Kravchuk",
+                                 "True": 0
+                              },    
+                        "Var4":{
+                                 "Ansver": "Leonid Kuchma",
+                                 "True": 1
+                              } 
+                          }
+                        
+                     },
+
+                     {
+                        "Question" : "Independence day in Ukraine? ",
+                        "Ansvers": {
+                              "Var1": {
+                                       "Ansver": "August 24",
+                                       "True": 1
+                                    },
+                              "Var2": {
+                                       "Ansver": "August 1",
+                                       "True": 0
+                                    },    
+                              "Var3": {
+                                       "Ansver":"April 1",
+                                       "True": 0
+                                    },    
+                              "Var4":{
+                                       "Ansver": "June 28",
+                                       "True": 0
+                                    } 
+                                }
+                              
+                           },
+
+                           {
+                              "Question" : "The day of constitution in Ukraine? ",
+                              "Ansvers": {
+                                    "Var1": {
+                                             "Ansver": "August 24",
+                                             "True": 0
+                                          },
+                                    "Var2": {
+                                             "Ansver": "August 1",
+                                             "True": 0
+                                          },    
+                                    "Var3": {
+                                             "Ansver":"April 1",
+                                             "True": 0
+                                          },    
+                                    "Var4":{
+                                             "Ansver": "June 28",
+                                             "True": 1
+                                          } 
+                                      }
+                                    
+                                 }
+              ] 
+                  
+      }
+},
+{ "category" : "History2",
+   "Test": {
+    "title" : "History of Ukraine",
+        "Questions": [
+         { 
+            "Question" : "The first presedent of Ukraine was? ",
+            "Ansvers": {
+                 "Var1": {
+                     "Ansver": "Bogdan Khmelnitskiy",
+                     "True": 0
+                        },
+                  "Var2": {
+                     "Ansver": "Leonid Kuchma",
+                     "True": 0
+                        },    
+                  "Var3": {
+                        "Ansver":"Leonid Kravchuk",
+                        "True": 1
+                        },    
+                  "Var4":{
+                        "Ansver": "Petro Poroshenko",
+                        "True": 0
+                        } 
+                     }  
+                },
+                {
+            "Question" : "Who created the first constitution of Ukraine? ",
+            "Ansvers": {
+                  "Var1": {
+                           "Ansver": "Bogdan Khmelnitskiy",
+                           "True": 0
+                        },
+                  "Var2": {
+                           "Ansver": "Pilip Orlik",
+                           "True": 1
+                        },    
+                  "Var3": {
+                           "Ansver":"Leonid Kravchuk",
+                           "True": 0
+                        },    
+                  "Var4":{
+                           "Ansver": "Leonid Kuchma",
+                           "True": 0
+                        } 
+                    }
+                  
+               },
+               
+               {
+                  "Question" : "Who was second presedent of Ukraine ? ",
+                  "Ansvers": {
+                        "Var1": {
+                                 "Ansver": "Bogdan Khmelnitskiy",
+                                 "True": 0
+                              },
+                        "Var2": {
+                                 "Ansver": "Pilip Orlik",
+                                 "True": 0
+                              },    
+                        "Var3": {
+                                 "Ansver":"Leonid Kravchuk",
+                                 "True": 0
+                              },    
+                        "Var4":{
+                                 "Ansver": "Leonid Kuchma",
+                                 "True": 1
+                              } 
+                          }
+                        
+                     },
+
+                     {
+                        "Question" : "Independence day in Ukraine? ",
+                        "Ansvers": {
+                              "Var1": {
+                                       "Ansver": "August 24",
+                                       "True": 1
+                                    },
+                              "Var2": {
+                                       "Ansver": "August 1",
+                                       "True": 0
+                                    },    
+                              "Var3": {
+                                       "Ansver":"April 1",
+                                       "True": 0
+                                    },    
+                              "Var4":{
+                                       "Ansver": "June 28",
+                                       "True": 0
+                                    } 
+                                }
+                              
+                           },
+
+                           {
+                              "Question" : "The day of constitution in Ukraine? ",
+                              "Ansvers": {
+                                    "Var1": {
+                                             "Ansver": "August 24",
+                                             "True": 0
+                                          },
+                                    "Var2": {
+                                             "Ansver": "August 1",
+                                             "True": 0
+                                          },    
+                                    "Var3": {
+                                             "Ansver":"April 1",
+                                             "True": 0
+                                          },    
+                                    "Var4":{
+                                             "Ansver": "June 28",
+                                             "True": 1
+                                          } 
+                                      }
+                                    
+                                 }
+              ] 
+                  
+      }
+},
+
+{ "category" : "History3",
+   "Test": {
+    "title" : "History of Ukraine",
+        "Questions": [
+         { 
+            "Question" : "The first presedent of Ukraine was? ",
+            "Ansvers": {
+                 "Var1": {
+                     "Ansver": "Bogdan Khmelnitskiy",
+                     "True": 0
+                        },
+                  "Var2": {
+                     "Ansver": "Leonid Kuchma",
+                     "True": 0
+                        },    
+                  "Var3": {
+                        "Ansver":"Leonid Kravchuk",
+                        "True": 1
+                        },    
+                  "Var4":{
+                        "Ansver": "Petro Poroshenko",
+                        "True": 0
+                        } 
+                     }  
+                },
+                {
+            "Question" : "Who created the first constitution of Ukraine? ",
+            "Ansvers": {
+                  "Var1": {
+                           "Ansver": "Bogdan Khmelnitskiy",
+                           "True": 0
+                        },
+                  "Var2": {
+                           "Ansver": "Pilip Orlik",
+                           "True": 1
+                        },    
+                  "Var3": {
+                           "Ansver":"Leonid Kravchuk",
+                           "True": 0
+                        },    
+                  "Var4":{
+                           "Ansver": "Leonid Kuchma",
+                           "True": 0
+                        } 
+                    }
+                  
+               },
+               
+               {
+                  "Question" : "Who was second presedent of Ukraine ? ",
+                  "Ansvers": {
+                        "Var1": {
+                                 "Ansver": "Bogdan Khmelnitskiy",
+                                 "True": 0
+                              },
+                        "Var2": {
+                                 "Ansver": "Pilip Orlik",
+                                 "True": 0
+                              },    
+                        "Var3": {
+                                 "Ansver":"Leonid Kravchuk",
+                                 "True": 0
+                              },    
+                        "Var4":{
+                                 "Ansver": "Leonid Kuchma",
+                                 "True": 1
+                              } 
+                          }
+                        
+                     },
+
+                     {
+                        "Question" : "Independence day in Ukraine? ",
+                        "Ansvers": {
+                              "Var1": {
+                                       "Ansver": "August 24",
+                                       "True": 1
+                                    },
+                              "Var2": {
+                                       "Ansver": "August 1",
+                                       "True": 0
+                                    },    
+                              "Var3": {
+                                       "Ansver":"April 1",
+                                       "True": 0
+                                    },    
+                              "Var4":{
+                                       "Ansver": "June 28",
+                                       "True": 0
+                                    } 
+                                }
+                              
+                           },
+
+                           {
+                              "Question" : "The day of constitution in Ukraine? ",
+                              "Ansvers": {
+                                    "Var1": {
+                                             "Ansver": "August 24",
+                                             "True": 0
+                                          },
+                                    "Var2": {
+                                             "Ansver": "August 1",
+                                             "True": 0
+                                          },    
+                                    "Var3": {
+                                             "Ansver":"April 1",
+                                             "True": 0
+                                          },    
+                                    "Var4":{
+                                             "Ansver": "June 28",
+                                             "True": 1
+                                          } 
+                                      }
+                                    
+                                 }
+              ] 
+                  
+      }
+},
+{ "category" : "History4",
+   "Test": {
+    "title" : "History of Ukraine",
+        "Questions": [
+         { 
+            "Question" : "The first presedent of Ukraine was? ",
+            "Ansvers": {
+                 "Var1": {
+                     "Ansver": "Bogdan Khmelnitskiy",
+                     "True": 0
+                        },
+                  "Var2": {
+                     "Ansver": "Leonid Kuchma",
+                     "True": 0
+                        },    
+                  "Var3": {
+                        "Ansver":"Leonid Kravchuk",
+                        "True": 1
+                        },    
+                  "Var4":{
+                        "Ansver": "Petro Poroshenko",
+                        "True": 0
+                        } 
+                     }  
+                },
+                {
+            "Question" : "Who created the first constitution of Ukraine? ",
+            "Ansvers": {
+                  "Var1": {
+                           "Ansver": "Bogdan Khmelnitskiy",
+                           "True": 0
+                        },
+                  "Var2": {
+                           "Ansver": "Pilip Orlik",
+                           "True": 1
+                        },    
+                  "Var3": {
+                           "Ansver":"Leonid Kravchuk",
+                           "True": 0
+                        },    
+                  "Var4":{
+                           "Ansver": "Leonid Kuchma",
+                           "True": 0
+                        } 
+                    }
+                  
+               },
+               
+               {
+                  "Question" : "Who was second presedent of Ukraine ? ",
+                  "Ansvers": {
+                        "Var1": {
+                                 "Ansver": "Bogdan Khmelnitskiy",
+                                 "True": 0
+                              },
+                        "Var2": {
+                                 "Ansver": "Pilip Orlik",
+                                 "True": 0
+                              },    
+                        "Var3": {
+                                 "Ansver":"Leonid Kravchuk",
+                                 "True": 0
+                              },    
+                        "Var4":{
+                                 "Ansver": "Leonid Kuchma",
+                                 "True": 1
+                              } 
+                          }
+                        
+                     },
+
+                     {
+                        "Question" : "Independence day in Ukraine? ",
+                        "Ansvers": {
+                              "Var1": {
+                                       "Ansver": "August 24",
+                                       "True": 1
+                                    },
+                              "Var2": {
+                                       "Ansver": "August 1",
+                                       "True": 0
+                                    },    
+                              "Var3": {
+                                       "Ansver":"April 1",
+                                       "True": 0
+                                    },    
+                              "Var4":{
+                                       "Ansver": "June 28",
+                                       "True": 0
+                                    } 
+                                }
+                              
+                           },
+
+                           {
+                              "Question" : "The day of constitution in Ukraine? ",
+                              "Ansvers": {
+                                    "Var1": {
+                                             "Ansver": "August 24",
+                                             "True": 0
+                                          },
+                                    "Var2": {
+                                             "Ansver": "August 1",
+                                             "True": 0
+                                          },    
+                                    "Var3": {
+                                             "Ansver":"April 1",
+                                             "True": 0
+                                          },    
+                                    "Var4":{
+                                             "Ansver": "June 28",
+                                             "True": 1
+                                          } 
+                                      }
+                                    
+                                 }
+              ] 
+                  
+      }
+},
+{ "category" : "History5",
+   "Test": {
+    "title" : "History of Ukraine",
+        "Questions": [
+         { 
+            "Question" : "The first presedent of Ukraine was? ",
+            "Ansvers": {
+                 "Var1": {
+                     "Ansver": "Bogdan Khmelnitskiy",
+                     "True": 0
+                        },
+                  "Var2": {
+                     "Ansver": "Leonid Kuchma",
+                     "True": 0
+                        },    
+                  "Var3": {
+                        "Ansver":"Leonid Kravchuk",
+                        "True": 1
+                        },    
+                  "Var4":{
+                        "Ansver": "Petro Poroshenko",
+                        "True": 0
+                        } 
+                     }  
+                },
+                {
+            "Question" : "Who created the first constitution of Ukraine? ",
+            "Ansvers": {
+                  "Var1": {
+                           "Ansver": "Bogdan Khmelnitskiy",
+                           "True": 0
+                        },
+                  "Var2": {
+                           "Ansver": "Pilip Orlik",
+                           "True": 1
+                        },    
+                  "Var3": {
+                           "Ansver":"Leonid Kravchuk",
+                           "True": 0
+                        },    
+                  "Var4":{
+                           "Ansver": "Leonid Kuchma",
+                           "True": 0
+                        } 
+                    }
+                  
+               },
+               
+               {
+                  "Question" : "Who was second presedent of Ukraine ? ",
+                  "Ansvers": {
+                        "Var1": {
+                                 "Ansver": "Bogdan Khmelnitskiy",
+                                 "True": 0
+                              },
+                        "Var2": {
+                                 "Ansver": "Pilip Orlik",
+                                 "True": 0
+                              },    
+                        "Var3": {
+                                 "Ansver":"Leonid Kravchuk",
+                                 "True": 0
+                              },    
+                        "Var4":{
+                                 "Ansver": "Leonid Kuchma",
+                                 "True": 1
+                              } 
+                          }
+                        
+                     },
+
+                     {
+                        "Question" : "Independence day in Ukraine? ",
+                        "Ansvers": {
+                              "Var1": {
+                                       "Ansver": "August 24",
+                                       "True": 1
+                                    },
+                              "Var2": {
+                                       "Ansver": "August 1",
+                                       "True": 0
+                                    },    
+                              "Var3": {
+                                       "Ansver":"April 1",
+                                       "True": 0
+                                    },    
+                              "Var4":{
+                                       "Ansver": "June 28",
+                                       "True": 0
+                                    } 
+                                }
+                              
+                           },
+
+                           {
+                              "Question" : "The day of constitution in Ukraine? ",
+                              "Ansvers": {
+                                    "Var1": {
+                                             "Ansver": "August 24",
+                                             "True": 0
+                                          },
+                                    "Var2": {
+                                             "Ansver": "August 1",
+                                             "True": 0
+                                          },    
+                                    "Var3": {
+                                             "Ansver":"April 1",
+                                             "True": 0
+                                          },    
+                                    "Var4":{
+                                             "Ansver": "June 28",
+                                             "True": 1
+                                          } 
+                                      }
+                                    
+                                 }
+              ] 
+                  
+      }
+},
+{ "category" : "History6",
+   "Test": {
+    "title" : "History of Ukraine",
+        "Questions": [
+         { 
+            "Question" : "The first presedent of Ukraine was? ",
+            "Ansvers": {
+                 "Var1": {
+                     "Ansver": "Bogdan Khmelnitskiy",
+                     "True": 0
+                        },
+                  "Var2": {
+                     "Ansver": "Leonid Kuchma",
+                     "True": 0
+                        },    
+                  "Var3": {
+                        "Ansver":"Leonid Kravchuk",
+                        "True": 1
+                        },    
+                  "Var4":{
+                        "Ansver": "Petro Poroshenko",
+                        "True": 0
+                        } 
+                     }  
+                },
+                {
+            "Question" : "Who created the first constitution of Ukraine? ",
+            "Ansvers": {
+                  "Var1": {
+                           "Ansver": "Bogdan Khmelnitskiy",
+                           "True": 0
+                        },
+                  "Var2": {
+                           "Ansver": "Pilip Orlik",
+                           "True": 1
+                        },    
+                  "Var3": {
+                           "Ansver":"Leonid Kravchuk",
+                           "True": 0
+                        },    
+                  "Var4":{
+                           "Ansver": "Leonid Kuchma",
+                           "True": 0
+                        } 
+                    }
+                  
+               },
+               
+               {
+                  "Question" : "Who was second presedent of Ukraine ? ",
+                  "Ansvers": {
+                        "Var1": {
+                                 "Ansver": "Bogdan Khmelnitskiy",
+                                 "True": 0
+                              },
+                        "Var2": {
+                                 "Ansver": "Pilip Orlik",
+                                 "True": 0
+                              },    
+                        "Var3": {
+                                 "Ansver":"Leonid Kravchuk",
+                                 "True": 0
+                              },    
+                        "Var4":{
+                                 "Ansver": "Leonid Kuchma",
+                                 "True": 1
+                              } 
+                          }
+                        
+                     },
+
+                     {
+                        "Question" : "Independence day in Ukraine? ",
+                        "Ansvers": {
+                              "Var1": {
+                                       "Ansver": "August 24",
+                                       "True": 1
+                                    },
+                              "Var2": {
+                                       "Ansver": "August 1",
+                                       "True": 0
+                                    },    
+                              "Var3": {
+                                       "Ansver":"April 1",
+                                       "True": 0
+                                    },    
+                              "Var4":{
+                                       "Ansver": "June 28",
+                                       "True": 0
+                                    } 
+                                }
+                              
+                           },
+
+                           {
+                              "Question" : "The day of constitution in Ukraine? ",
+                              "Ansvers": {
+                                    "Var1": {
+                                             "Ansver": "August 24",
+                                             "True": 0
+                                          },
+                                    "Var2": {
+                                             "Ansver": "August 1",
+                                             "True": 0
+                                          },    
+                                    "Var3": {
+                                             "Ansver":"April 1",
+                                             "True": 0
+                                          },    
+                                    "Var4":{
+                                             "Ansver": "June 28",
+                                             "True": 1
+                                          } 
+                                      }
+                                    
+                                 }
+              ] 
+                  
+      }
+}
+]

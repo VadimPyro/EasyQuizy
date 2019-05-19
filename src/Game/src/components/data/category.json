@@ -1,0 +1,18 @@
+[
+    { "category" : "History",
+      "k": 1
+    },
+    { "category" : "Astronomy",
+        "k": 2
+      },
+      { "category" : "Programing",
+        "k": 3
+      },
+      { "category" : "Travelling",
+        "k": 4
+      },
+      { "category" : "Movies",
+        "k": 5
+      }
+     
+]        

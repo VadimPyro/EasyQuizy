@@ -1,0 +1,76 @@
+.App{
+  text-align: center;
+}
+
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+
+
+  padding: 0;
+  margin: 0;
+  background: radial-gradient(black 15%, transparent 16%) 0 0, radial-gradient(rgba(255, 255, 255, .1) 15%, transparent 20%) 0 1px;
+  background-color: #12364a;
+  background-size: 12px 12px;
+}
+
+.App-link {
+  color: #61dafb;
+ 
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+h3 p.activeLink {
+  color: green;
+}
+
+.App-NavLink {
+  text-decoration: underline; 
+}
+.active {
+  color: green;
+  text-decoration: underline; 
+}
+
+.popup {
+  position: fixed;
+  width:100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin: auto;
+  background-color: rgba(0,0,0, 0.5);
+}
+.popup_inner {
+  position: absolute;
+  left: 35%;
+  right: 35%;
+  top: 35%;
+  bottom: 35%;
+  margin: auto;
+  background: white;
+  Color: green;
+}
+
